@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319385288052",
+    "project_id": "videoapp-74e60",
+    "storage_bucket": "videoapp-74e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319385288052:android:c1eb24a3ad563092460021",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUPzmW5SLu__N27p3dioeF1XLJ2lxx-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
